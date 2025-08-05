@@ -16,7 +16,7 @@
 ## 🔮 Features
 
 - 💬 WhatsApp MD Support via Baileys
-- 📥 Downloader (YT, TikTok, Insta, etc.)
+- 📥 Downloader (youtube,
 - 🎮 Fun Games (TicTacToe, Truth/Dare)
 - 🎭 ChatGPT & AI Features
 - 🔥 NSFW (Toggle by Owner)
@@ -25,7 +25,7 @@
 - 🍓 Themed Menus (XEJIN aesthetic style)
 
 ---
-- 🕊️DONT FORGET TO CHANGE YOUR NUMBER IN ENV FILE
+- 🕊️DONT FORGET TO CHANGE YOUR NUMBER IN config.js FILE
 ## 📦 Install on Termux
 
 ```bash
@@ -35,4 +35,9 @@ pkg install yarn -y
 git clone https://github.com/heukjin/XEJIN
 cd XEJIN
 npm install
+chmod +x start.sh
 ./start.sh
+
+```
+### NEXT STEP 💗
+- SCAN QR AND PAIR BOT WITH YOUR WHATSAPP NUMBER ADD TYPE .Xejin
